@@ -1,0 +1,47 @@
+/* add your CSS here */
+body {
+			font-family: 'Open-sans' ,sans-serif;
+		}
+		* {
+box-sizing: border-box;
+}
+		.horse-img {
+					border-radius: 10px;
+					height: 200px;
+					width: 300px;
+					border: 1px solid lightgrey;
+}
+.card {
+		background-color: white;
+			border: 1px solid lightblue;
+			padding: 20px 20px 20px 20px;
+			width: 340px;
+			height: auto;
+			border-style: outset;
+			box-shadow: 5px 10px brown;
+}
+h3 {
+    font-size: 40px;
+}
+.subject {
+    border: 1px solid lightgrey;
+    margin-top: 20px;
+    width: 300px;
+    padding: 5px;
+}
+
+
+.fact {
+			font-style: italic;
+		}
+
+		.item {
+			font-weight: 800;
+			color: #e7564b;
+		}
+
+			ul {
+		    list-style-type: none;
+		    margin: 0;
+		    padding: 0;
+		}
